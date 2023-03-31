@@ -1,2 +1,3 @@
-# fitness
-健身笔记
+# AI Web
+
+AI Workstation Web项目
